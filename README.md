@@ -1,1 +1,9 @@
-Source code for https://www.youtube.com/watch?v=jc9_Bqzy2YQ&feature=youtu.be 
+This is a movie searching platform. 
+
+Bootstrapped with React.
+
+To start download the repo and run
+
+yarn install
+
+yarn start
